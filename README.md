@@ -193,3 +193,16 @@ This project is configured for local development only and does not require any e
 - Add a simple dentist login for the Dentist View page.
 - Hook an email service for confirmation emails (a stub can be added where the booking is created).
 - Improve the UI with more components and state management as needed.
+
+Screenshots:
+<img width="1918" height="863" alt="1" src="https://github.com/user-attachments/assets/1f4e58fc-2310-42e0-911c-367bff70b569" />
+<img width="1916" height="862" alt="2" src="https://github.com/user-attachments/assets/89265df9-1c7e-4b59-abe9-9b13fb19f830" />
+<img width="1917" height="868" alt="3" src="https://github.com/user-attachments/assets/0d4929b9-d811-4b92-8e13-eb330c90a93b" />
+<img width="1918" height="862" alt="4" src="https://github.com/user-attachments/assets/b4b9122b-5f7a-4a80-b8c3-d78618a07316" />
+<img width="1918" height="866" alt="5" src="https://github.com/user-attachments/assets/53dc9e1e-7155-41d5-8a82-4886453a644a" />
+<img width="1918" height="867" alt="6" src="https://github.com/user-attachments/assets/15bd548b-78e3-4fb3-bc42-fe61803943b1" />
+
+
+
+
+
